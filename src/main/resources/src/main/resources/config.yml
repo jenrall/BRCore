@@ -1,0 +1,4 @@
+# BRCore Config
+min-players: 2
+countdown-seconds: 10
+lobby-world: world
