@@ -1,0 +1,12 @@
+name: BRCore
+version: 1.0.0
+main: com.example.brcore.BRCore
+api-version: '1.21'
+author: You
+description: Battle Royale Core - Lobby and game state
+
+commands:
+  br:
+    description: Battle Royale commands
+    usage: /br <help|create|delete|list|setlobby|setspawn|join|leave|start|stop>
+    aliases: [brcore, battleroyale]
